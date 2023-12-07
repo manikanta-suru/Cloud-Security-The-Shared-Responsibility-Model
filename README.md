@@ -19,6 +19,9 @@ Whether you have adopted a multi-cloud strategy or a single-vendor solution, the
 - 🔸 **Server-Side Security (Encryption — Filesystem And/Or Data)**
 - 🔸 **Network Traffic Protection (Private Connectivity, Encryption, Integrity, Identity).**
 
+  ![image](https://github.com/manikanta-suru/Cloud-Security-The-Shared-Responsibility-Model/assets/70797344/6448e999-d219-40f2-892a-d3bd99b33df2)
+
+
 Detailed source: [Shared Responsibility Model - Source](https://lnkd.in/daN4b48)
 
 *Credit: Daniel*
